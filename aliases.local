@@ -1,0 +1,6 @@
+# ghq
+alias g='cd $(ghq root)/$(ghq list | peco)'
+
+# docker
+alias gradle='docker run --rm -u gradle -v "$PWD":/home/gradle/project -w /home/gradle/project gradle gradle'
+
