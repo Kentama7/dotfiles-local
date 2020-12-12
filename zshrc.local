@@ -71,6 +71,8 @@ ZSH_THEME="typewritten"
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(
   git
+  docker
+  docker-compose
   enhancd
   zsh-syntax-highlighting
   zsh-autosuggestions
