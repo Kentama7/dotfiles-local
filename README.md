@@ -14,6 +14,8 @@ GITHUB_TOKEN=xxxxxxxx
 
 ## dotfiles
 
+https://github.com/Kentama7/dotfiles
+
 ```shell
 git clone https://github.com/Kentama7/dotfiles.git ~/dotfiles
 brew tap thoughtbot/formulae
