@@ -1,5 +1,10 @@
 # dotfiles-local
 
+# Requirements
+
+- [peco](https://github.com/peco/peco)
+- [ghq](https://github.com/x-motemen/ghq)
+
 # Setup
 
 ## .env
