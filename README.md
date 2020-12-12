@@ -2,6 +2,7 @@
 
 # Requirements
 
+- zsh
 - [peco](https://github.com/peco/peco)
 - [ghq](https://github.com/x-motemen/ghq)
 
