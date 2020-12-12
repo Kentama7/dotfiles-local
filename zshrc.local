@@ -71,9 +71,11 @@ ZSH_THEME="typewritten"
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(
   git
+  enhancd
   zsh-syntax-highlighting
+  zsh-autosuggestions
+  history-substring-search
 )
-
 source $ZSH/oh-my-zsh.sh
 
 # User configuration
@@ -104,4 +106,3 @@ source $ZSH/oh-my-zsh.sh
 
 # set envrionment values
 envup
-

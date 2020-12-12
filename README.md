@@ -50,5 +50,7 @@ Set `ZSH_THEME="typewritten"` in `.zshrc.local` file.
 ### Plugins
 
 - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
-
+- [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
+- [history-substring-search](https://github.com/zsh-users/zsh-history-substring-search)
+- [enhancd](https://github.com/b4b4r07/enhancd)
 
