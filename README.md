@@ -1,6 +1,16 @@
 # dotfiles-local
 
-# 事前準備
+# Setup
+
+## .env
+
+```shell
+vim ~/.env
+```
+
+Add environment values
+
+- GITHUB_TOKEN
 
 ## dotfiles
 
