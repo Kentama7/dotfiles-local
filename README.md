@@ -8,9 +8,9 @@
 vim ~/.env
 ```
 
-Add environment values
-
-- GITHUB_TOKEN
+```
+GITHUB_TOKEN=xxxxxxxx
+```
 
 ## dotfiles
 
@@ -42,6 +42,8 @@ git clone https://github.com/reobin/typewritten.git $ZSH_CUSTOM/themes/typewritt
 ln -s "$ZSH_CUSTOM/themes/typewritten/typewritten.zsh-theme" "$ZSH_CUSTOM/themes/typewritten.zsh-theme"
 ln -s "$ZSH_CUSTOM/themes/typewritten/async.zsh" "$ZSH_CUSTOM/themes/async"
 ```
+
+Set `ZSH_THEME="typewritten"` in `.zshrc.local` file.
 
 ### Plugins
 
