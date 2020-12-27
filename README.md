@@ -55,8 +55,20 @@ Set `ZSH_THEME="typewritten"` in `.zshrc.local` file.
 
 ### Plugins
 
-- [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
-- [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
-- [history-substring-search](https://github.com/zsh-users/zsh-history-substring-search)
-- [enhancd](https://github.com/b4b4r07/enhancd)
+- [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)   
+  ```
+  git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
+  ```
+- [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)   
+  ```
+  git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+  ```
+- [history-substring-search](https://github.com/zsh-users/zsh-history-substring-search)   
+  ```
+  git clone https://github.com/zsh-users/zsh-history-substring-search ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-history-substring-search
+  ```
+- [enhancd](https://github.com/b4b4r07/enhancd)   
+  ```
+  git clone https://github.com/b4b4r07/enhancd ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/enhancd
+  ```
 
